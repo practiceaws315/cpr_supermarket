@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>CPR SUPER MARKET</h1>
+<img src="E:\mobile\Me&MyFamily\IMG-20150711-WA0004.jpg" width="80" height="100"> </img src>
+
+<!-- The form -->
+<form class="example" action="action_page.php">
+  <input type="text" placeholder="Search.." name="search">
+  <button type="submit"><i class="fa fa-search"></i></button>
+  </form>
+</p>
+</body>
+</html>
